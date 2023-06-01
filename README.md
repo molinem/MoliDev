@@ -21,6 +21,6 @@ And more...
 
 <h2>📊 Stats</h2>
 <div style="display: flex;">
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=molinem&show_icons=true&theme=dracula" height="150">
-  <img alt="Used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=molinem&theme=dracula&layout=compact" height="150">
+  <img alt="Stats" src="https://github-readme-stats-molinem.vercel.app/api?username=molinem&show_icons=true&theme=dracula" height="150">
+  <img alt="Used languages" src="https://github-readme-stats-molinem.vercel.app/api/top-langs/?username=molinem&theme=dracula&layout=compact" height="150">
 </div>
