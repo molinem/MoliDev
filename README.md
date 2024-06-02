@@ -17,10 +17,10 @@
 <h2 align="center">🚀 Proyectos</h2>
 <p align="center">Algunos de los proyectos más destacables.</p>
 
-| <a href="https://github.com/molinem" target="_blank">**x1**</a> | <a href="https://github.com/molinem" target="_blank">**x2**</a> | <a href="https://github.com/molinem" target="_blank">**x3**</a> | <a href="https://github.com/molinem" target="_blank">**x4**</a> |
+| <a href="https://github.com/molinem/tyweb2023" target="_blank">**ClassicGames**</a> | <a href="https://github.com/molinem/SI_LAB_C1_9" target="_blank">**Generador de laberintos**</a> | <a href="https://github.com/molinem/ProyectoMultimedia" target="_blank">**FileTransform**</a> | <a href="https://github.com/molinem/ICEFLIX-FILESERVICE" target="_blank">**FileService**</a> |
 | :---: | :---: | :---: | :---: |
 <img align='center' src='https://github.com/molinem' width="100px"  height='100px'> | <img align='center' width="100px" src='https://github.com/molinem' height='100px'>  | <img align='center' src='https://github.com/molinem' width="100px" height='100px'> | <img align='center' src='https://github.com/molinem' width="100px" height='100px'> |
-| <p>Proyecto 1</p> <a href="https://github.com/molinem" target="_blank">`Repository`</a> | <p>Proyecto 2</p> <a href="https://github.com/molinem" target="_blank">`Repository`</a> | <p>Proyecto 3</p> <a href="https://github.com/molinem" target="_blank">`Repository`</a> | <p>Proyecto 4</p> <a href="https://github.com/molinem" target="_blank">`Repository`</a> |
+| <p>Juego de las 4 en raya y </br> Juego de la escoba</p> <a href="https://github.com/molinem/tyweb2023" target="_blank">`Repositorio`</a> | <p>Permite generar y </br> resolver laberintos</p> <a href="https://github.com/molinem/SI_LAB_C1_9" target="_blank">`Repositorio`</a> | <p>Procesa y convierte los </br>ficheros de una forma sencilla</p> <a href="https://github.com/molinem/ProyectoMultimedia" target="_blank">`Repositorio`</a> | <p>Servicio que actua de </br> gestor de ficheros</p> <a href="https://github.com/molinem/ICEFLIX-FILESERVICE" target="_blank">`Repositorio`</a> |
 <br/>
 
 <h2 align="center">Skills</h2>
@@ -60,6 +60,7 @@
  <a href="#"><img alt="Maven" src="https://img.shields.io/badge/Apache_Maven-C71A36.svg?logo=apache-maven&logoColor=white"></a>
  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
  <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white"></a>
+ <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=Android%20Studio&logoColor=white"></a>
  <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255.svg?logo=eclipse&logoColor=white"></a>
  <a href="#"><img alt="Apache Netbeans IDE" src="https://img.shields.io/badge/Apache%20Netbeans%20IDE-1B6AC6.svg?logo=Apache%20Netbeans%20Ide&logoColor=white"></a>
  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
