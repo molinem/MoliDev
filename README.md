@@ -1,26 +1,34 @@
-## Hey there 👋 </br>
-My name is Luis Molina, I'm a developer, studying Computer Engineering.
+ 
+<h2 align="center">Hola 👋</h2>
 
-In 2012 I started managing Linux based dedicated servers, over the years, my interest in programming grew a lot.</br>
-I started programming in Java, C# and every day I look for new languages where to learn.
+<p align="justify">Desde pequeño, me ha fascinado el ámbito de la tecnología. Me considero una persona tenaz que no se rinde ante los problemas. Siempre busco nuevos retos a los que enfretarme, aprender nuevos lenguajes de programación, conocer metodologías de desarrollo y mejorar mis habilidades en machine learning.</p>
 
 
-## Skills:
-[![Linux](https://img.shields.io/badge/Linux-A100FF?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]() &nbsp;&nbsp;&nbsp;
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()&nbsp;&nbsp;&nbsp;
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()&nbsp;&nbsp;&nbsp;
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()&nbsp;&nbsp;&nbsp;
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()&nbsp;&nbsp;&nbsp;
-[![C#](https://img.shields.io/badge/Php-007396?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()&nbsp;&nbsp;&nbsp;
-</br></br>
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()&nbsp;&nbsp;&nbsp;
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()&nbsp;&nbsp;&nbsp;
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()&nbsp;&nbsp;&nbsp;
-</br>
-And more...
-
-<h2>📊 Stats</h2>
-<div style="display: flex;">
-  <img alt="Stats" src="https://github-readme-stats-molinem.vercel.app/api?username=molinem&show_icons=true&theme=dracula" height="150">
+<h2 align="center">📊 Stats</h2>
+<p align="center">
+  <img alt="Stats" src="https://github-readme-stats-molinem.vercel.app/api?username=molinem&show_icons=true&theme=dracula" height="150"/>
   <img alt="Used languages" src="https://github-readme-stats-molinem.vercel.app/api/top-langs/?username=molinem&theme=dracula&layout=compact" height="150">
-</div>
+</p>
+<br/>
+
+<h2 align="center">🚀 Proyectos</h2>
+<p align="center">Algunos de los proyectos más destacables.</p>
+
+| <a href="https://github.com/molinem" target="_blank">**x1**</a> | <a href="https://github.com/molinem" target="_blank">**x2**</a> | <a href="https://github.com/molinem" target="_blank">**x3**</a> | <a href="https://github.com/molinem" target="_blank">**x4**</a> |
+| :---: | :---: | :---: | :---: |
+<img align='center' src='https://github.com/molinem' width="100px"  height='100px'> | <img align='center' width="100px" src='https://github.com/molinem' height='100px'>  | <img align='center' src='https://github.com/molinem' width="100px" height='100px'> | <img align='center' src='https://github.com/molinem' width="100px" height='100px'> |
+| <p>Proyecto 1</p> <a href="https://github.com/molinem" target="_blank">`Repository`</a> | <p>Proyecto 2</p> <a href="https://github.com/molinem" target="_blank">`Repository`</a> | <p>Proyecto 3</p> <a href="https://github.com/molinem" target="_blank">`Repository`</a> | <p>Proyecto 4</p> <a href="https://github.com/molinem" target="_blank">`Repository`</a> |
+<br/>
+
+<h2 align="center">Skills</h2>
+<h4 align="center">🧬 Lenguajes de Programación</h4>
+
+<h4 align="center">🛠 Frameworks y Librerias</h4>
+
+<h4 align="center">⚙ Software</h4>
+
+<h4 align="center">☁ Cloud y BD</h4>
+
+<br/>
+
+<h2 align="center">📍 Repositorios destacados</h2>
