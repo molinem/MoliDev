@@ -3,15 +3,6 @@
 
 <p align="justify">Desde pequeño, me ha fascinado el ámbito de la tecnología. Me considero una persona tenaz que no se rinde ante los problemas. Siempre busco nuevos retos a los que enfretarme, aprender nuevos lenguajes de programación, conocer metodologías de desarrollo y mejorar mis habilidades en machine learning.</p>
 
-
-<h2 align="center">📊 Stats</h2>
-
-<p align="center">
-  <img height="150" width="auto" src="https://github-readme-stats-molinem.vercel.app/api?username=molinem&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" alt="stats graph"  />
-  <img height="150" width="auto" src="https://github-readme-stats-molinem.vercel.app/api/top-langs?username=molinem&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" alt="languages graph"  />
-  <img height="160" width="auto" src="https://streak-stats.demolab.com?user=molinem&locale=es&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" alt="streak graph" />
-</p>
-
 <br/>
 
 <h2 align="center">🚀 Proyectos</h2>
